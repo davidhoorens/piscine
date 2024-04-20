@@ -76,6 +76,7 @@
 					* Budget: ~100€
 				* Raccords:
 					* Budget ~100€ ?
+   * tubes pvc: https://www.piscine-clic.com/news/2011/10/plomberie-pvc-piscine-conseils-pour-choisir-et-installer-vos-canalisations/
 			* Utile après:
 				* Pompe à chaleur
 					* Exemple: 
